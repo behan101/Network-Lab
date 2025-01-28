@@ -2,17 +2,17 @@
 
 ## Objective
 
-The goal of the Network Lab is to design and configure a network using Cisco Packet Tracer. This lab will demonstrate the essential networking devices such as routers, switches, computers, configure IP addressing, and establishing a network connectivity.
+The goal of the Network Lab is to design and configure a network using Cisco Packet Tracer. This lab will demonstrate the essential networking devices such as routers, switches, computers, configure IP addressing, and establish network connectivity.
 
 ### Skills Learned
 
-- Network Device Configuration: Set up and configuration basic networking devices such as routers, switches, and PCs.
+- Network Device Configuration: Set up and configure basic networking devices such as routers, switches, and PCs.
 - IP Addressing: Assign and configure static IP addresses for network devices to ensure proper communication.
 - Router Configuration: Set up routing on a router to enable connectivity between different network segments.
-- Switch Configuration: Configure basic switch settings to facilitate communication within a local network.
-- Basic Network Troubleshooting: Identify and resolve common connectivity issues using tools like ping and traceroute.
-- Subnetting Basics: Apply subnetting concepts to divide a network into smaller, manageable segments.
-- Connectivity Testing: Use basic network testing commands to verify proper network functionality and connectivity.
+- Switch Configuration: Configure basic switch settings to facilitate communication within a local area network (LAN).
+- Basic Network Troubleshooting: Identify and resolve common connectivity issues using tools like Ping and Traceroute.
+- Subnetting Basics: Apply subnetting concepts to divide a network into smaller, manageable subnets.
+- Connectivity Testing: Use basic network testing commands to verify proper network functionality.
 - Hands-on Network Design: Gain experience in designing a small-scale network layout using Packet Tracer.
 
 ### Tools Used
@@ -20,10 +20,10 @@ The goal of the Network Lab is to design and configure a network using Cisco Pac
 - Cisco Packet Tracer: A network simulation software used to design and simulate network topologies and configurations.
 - Router: A device used to route data between different networks, configured with basic routing protocols and interfaces.
 - Switch: A device that facilitates communication within a local area network (LAN) by connecting multiple devices.
-- PC (Personal Computer): Used as an end device to simulate user devices on the network, with the ability to configure IP addresses and test connectivity.
+- PC (Personal Computer): An end device used to simulate user devices on the network, with the ability to configure IP addresses and test connectivity.
 - Console Cable: A cable used for device management, typically connecting a PC to network devices like routers and switches for configuration.
 - Ethernet Cable (Copper or Fiber): Used for physical connections between devices such as routers, switches, and computers in the network.
-- Ping Command: A network diagnostic tool used to test the connectivity between devices by sending ICMP echo requests.
+- Ping Command: A network diagnostic tool used to test connectivity between devices by sending ICMP echo requests.
 - Traceroute Command: A tool used to track the path data takes across a network, helping to identify network delays or failures.
 
 ## Examples
